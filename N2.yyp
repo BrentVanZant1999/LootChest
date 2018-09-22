@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03ac67ed-4db8-46f0-8c8b-c5d42466d208",
+            "Value": {
+                "id": "e0fb77a5-718a-44c5-8838-af61e8c3c4fe",
+                "resourcePath": "objects\\objDataTracker\\objDataTracker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "157429f3-ef6a-4ce3-8c15-a18ef16af347",
             "Value": {
                 "id": "fd790778-4932-4353-9690-64bbc3c98d23",
@@ -92,6 +100,14 @@
                 "id": "c9f69174-5527-4020-86f3-f0a2b1d73aa4",
                 "resourcePath": "views\\575891ce-2332-42b0-8ea9-d3fbea292726.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59132f59-82cc-4ea8-aa94-7733460fce3c",
+            "Value": {
+                "id": "05995ee0-a730-4dcb-9dd6-7f08f6c3134e",
+                "resourcePath": "objects\\objItemData\\objItemData.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -186,7 +202,7 @@
             "Key": "dfed2108-7bd9-4eae-96bb-cffc4a4b7df0",
             "Value": {
                 "id": "fc4f20b6-657d-4f8e-8264-7783de2a8371",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rmMain\\rmMain.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -220,6 +236,14 @@
                 "id": "03b3debf-113d-4265-b2eb-2afdf084f15d",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa2c46e7-6525-4ad8-beb5-a413d56eea91",
+            "Value": {
+                "id": "99040d5a-4d57-4175-b7a3-ec52aae2b3be",
+                "resourcePath": "objects\\objLootItem\\objLootItem.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

@@ -4,8 +4,11 @@ itemAmount = 4;
 myX = 0;
 myY = 0;
 
+itemName ="";
+itemWorth = 0;
+
 //animation variables
 isCreating = true; 
-createLength = 20; 
+createLength = 30; 
 isExiting = false; 
-exitLength = 20; 
+exitLength = 30; 
