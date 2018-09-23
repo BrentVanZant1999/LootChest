@@ -8,5 +8,6 @@ animationLength = 30;
 roundRows = 0;
 roundArray[0] = 0; 
 
+currentRound = 0; 
 
 

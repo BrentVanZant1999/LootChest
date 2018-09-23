@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0264bfcf-e697-4b75-9223-65f27df9e050",
+            "Value": {
+                "id": "b2dd22dc-db63-4458-afe1-64cfd88b640a",
+                "resourcePath": "objects\\objLootSectionUi\\objLootSectionUi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03ac67ed-4db8-46f0-8c8b-c5d42466d208",
             "Value": {
                 "id": "e0fb77a5-718a-44c5-8838-af61e8c3c4fe",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "3f46fb71-85ee-432f-ae15-d37d2b4a449c",
+            "Value": {
+                "id": "e30b4c59-f3fe-46f5-ab3a-fdf59fd95980",
+                "resourcePath": "objects\\objGameCreate\\objGameCreate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43a2d615-50e6-49a7-a029-91d06de5c772",
             "Value": {
                 "id": "ad484b0a-a64f-4616-ab1a-e98113658975",
@@ -127,6 +143,22 @@
             }
         },
         {
+            "Key": "60799624-e5ec-46a9-8617-0dab1a2072a4",
+            "Value": {
+                "id": "20e5bbb2-f75d-4022-a559-7a4bb79d631b",
+                "resourcePath": "objects\\objHighGoldUi\\objHighGoldUi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "75cac920-a58d-4550-956f-520e2465a11a",
+            "Value": {
+                "id": "df0b983f-d090-41ba-84f3-e74073a83fc4",
+                "resourcePath": "sprites\\spr_item1\\spr_item1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "9ed156ca-eafe-4ca5-bd96-bdad6386e6ea",
@@ -140,6 +172,14 @@
                 "id": "2dc18d74-3f82-45c4-814b-824ab89f65ce",
                 "resourcePath": "views\\881608b4-ef4c-47f2-9e0f-377185832770.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c6a3490-183b-4903-9550-3a7a80f0e2c6",
+            "Value": {
+                "id": "120d251c-7a57-4093-97f7-319a42ef5af3",
+                "resourcePath": "objects\\objCurrentGoldUi\\objCurrentGoldUi.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +220,14 @@
                 "id": "b64af0f2-750c-44d6-8af0-8f324211b86e",
                 "resourcePath": "views\\b1fd86f0-2ac3-4497-9d0c-85e5cca7d8b1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5c54c82-d412-4aca-b69d-bb1234bc5e0d",
+            "Value": {
+                "id": "4a894ba9-8b61-4418-b44f-cd0c2192a706",
+                "resourcePath": "scripts\\addChest\\addChest.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -239,6 +287,14 @@
             }
         },
         {
+            "Key": "f66d07f9-4670-4751-87ef-50abba2e6b83",
+            "Value": {
+                "id": "2451f02b-8f65-4e47-ada3-f4847f57f16a",
+                "resourcePath": "objects\\objChestHolderUi\\objChestHolderUi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fa2c46e7-6525-4ad8-beb5-a413d56eea91",
             "Value": {
                 "id": "99040d5a-4d57-4175-b7a3-ec52aae2b3be",
@@ -248,7 +304,7 @@
         }
     ],
     "script_order": [
-        
+        "c5c54c82-d412-4aca-b69d-bb1234bc5e0d"
     ],
     "tutorial": ""
 }
