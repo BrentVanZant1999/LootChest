@@ -10,4 +10,6 @@ roundArray[0] = 0;
 
 currentRound = 0; 
 
+rarityLevels = 5;
+
 
