@@ -24,6 +24,7 @@ else {
 
 var gurIndex = irandom_range(0,arrayLen-1);
 array[gurIndex] = gurRar;
+//addition
 for ( var i = 0; i < arrayLen; i++ ) {
 	gurRar = 1;
 }

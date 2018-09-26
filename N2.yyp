@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "760d7f25-4756-466c-be28-0461ca71100b",
+            "Value": {
+                "id": "fcdebfc5-bb0f-4d8b-aa88-37998a1a5c7d",
+                "resourcePath": "objects\\objDataStorage\\objDataStorage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "9ed156ca-eafe-4ca5-bd96-bdad6386e6ea",
